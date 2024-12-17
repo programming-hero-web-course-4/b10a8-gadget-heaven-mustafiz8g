@@ -100,37 +100,5 @@
         ],
         "availability": "In Stock",
         "rating": 4.8
-    },
-    {
-        "product_id": "L009",
-        "product_title": "Samsung Galaxy Book Pro",
-        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/samsung/galaxy-book-pro-360/galaxy-book-pro-360-02-500x500.jpg",
-        "category": "Laptop",
-        "price": 1099,
-        "description": "Samsung Galaxy Book Pro with Intel Core i5, 512GB SSD, and 15.6-inch AMOLED display.",
-        "specification": [
-            "Intel Core i5",
-            "15.6-inch AMOLED display",
-            "512GB SSD",
-            "8GB RAM"
-        ],
-        "availability": "In Stock",
-        "rating": 4.6
-    },
-    {
-        "product_id": "L010",
-        "product_title": "Asus ZenBook 14",
-        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/zenbook-pro-14-oled/zenbook-pro-14-oled-01-500x500.webp",
-        "category": "Laptop",
-        "price": 999,
-        "description": "Asus ZenBook 14 with AMD Ryzen 7, 512GB SSD, and 14-inch NanoEdge display.",
-        "specification": [
-            "AMD Ryzen 7",
-            "14-inch NanoEdge display",
-            "512GB SSD",
-            "16GB RAM"
-        ],
-        "availability": "In Stock",
-        "rating": 4.7
     }
 ]

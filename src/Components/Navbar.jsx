@@ -102,15 +102,7 @@ const Navbar = () => {
                             Home
                         </NavLink>
                     </li>
-                    <li>
-                        <NavLink
-                            onClick={defaultBtn}
-                            to="/statistics"
-                            className="link-hover"
-                        >
-                            Statistics
-                        </NavLink>
-                    </li>
+              
                     <li>
                         <NavLink
                             onClick={cartBtn}
